@@ -1,0 +1,7 @@
+{
+  "name": "AI Interview Prep Assistant",
+  "description": "Free, no-subscription mock interview assistant with tailored questions, live speech practice, STAR method feedback, and AI scoring.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
