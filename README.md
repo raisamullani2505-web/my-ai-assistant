@@ -1,6 +1,23 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# AI Interview Preparation Assistant
+
+An AI-powered application designed to help students and job seekers prepare for interviews with personalized practice and AI-based guidance.
+
+## Features
+- AI-generated interview questions
+- Interview preparation assistance
+- Personalized practice experience
+- User-friendly interface
+
+## Technologies Used
+- TypeScript
+- HTML
+- Gemini API
+
+## Project Setup
+To run the project locally, install the required dependencies and configure the necessary environment variables.
+
+## Note
+This project is developed for educational and academic purposes.
 
 # Run and deploy your AI Studio app
 
