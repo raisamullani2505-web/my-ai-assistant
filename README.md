@@ -1,23 +1,59 @@
-# AI Interview Preparation Assistant
 
-An AI-powered application designed to help students and job seekers prepare for interviews with personalized practice and AI-based guidance.
+<div align="center">
 
-## Features
-- AI-generated interview questions
-- Interview preparation assistance
-- Personalized practice experience
-- User-friendly interface
+# 🚀 AI Interview Preparation Assistant
 
-## Technologies Used
+### 🎯 Prepare Smarter. Practice Better. Crack Interviews!
+
+An AI-powered application designed to help students and job seekers prepare for interviews with personalized AI-based guidance.
+
+![AI](https://img.shields.io/badge/Artificial_Intelligence-AI-blueviolet?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Gemini_API-Powered-blue?style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-Project-blue?style=for-the-badge)
+
+</div>
+
+---
+
+## ✨ About the Project
+
+The AI Interview Preparation Assistant is designed to help students and job seekers improve their interview preparation using Artificial Intelligence.
+
+It provides AI-based assistance to practice interview questions, prepare for interviews, and improve confidence.
+
+## 🌟 Features
+
+- 🤖 AI-powered interview preparation
+- 🎯 Interview practice assistance
+- 💡 AI-generated guidance
+- 📚 Helps students prepare for job interviews
+- 🎨 Simple and user-friendly interface
+
+## 🛠️ Technologies Used
+
 - TypeScript
 - HTML
 - Gemini API
 
-## Project Setup
-To run the project locally, install the required dependencies and configure the necessary environment variables.
+## 🚀 Project Objective
 
-## Note
-This project is developed for educational and academic purposes.
+The main objective of this project is to make interview preparation easier and more accessible for students and job seekers using AI technology.
+
+## 📌 Future Scope
+
+- Personalized interview questions based on job roles
+- Mock interview simulation
+- Feedback on interview answers
+- Resume-based interview preparation
+
+---
+
+<div align="center">
+
+### 💜 Built with passion and AI
+
+</div>
+
 
 # Run and deploy your AI Studio app
 
