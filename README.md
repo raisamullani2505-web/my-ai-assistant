@@ -65,12 +65,13 @@ View your app in AI Studio: https://ai.studio/apps/4d9a793b-a503-4144-b2ea-12413
 **Prerequisites:**  Node.js
 
 
-1. Install dependencies:
+ Install dependencies:
    `npm install`
+ Run the app:
+   `npm run dev`
  ## API Configuration
 
 Configure the required API credentials securely using environment variables.
 
 Do not commit API keys or sensitive credentials to the repository.
-3. Run the app:
-   `npm run dev`
+
