@@ -8,7 +8,6 @@
 An AI-powered application designed to help students and job seekers prepare for interviews with personalized AI-based guidance.
 
 ![AI](https://img.shields.io/badge/Artificial_Intelligence-AI-blueviolet?style=for-the-badge)
-![Gemini](https://img.shields.io/badge/Gemini_API-Powered-blue?style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Project-blue?style=for-the-badge)
 
 </div>
